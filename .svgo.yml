@@ -49,6 +49,7 @@ plugins:
   - removeUnusedNS
   - transformsWithOnePath
   - sortAttrs
+  - removeText
   - removeTitle
   - removeDesc
   - removeDimensions
